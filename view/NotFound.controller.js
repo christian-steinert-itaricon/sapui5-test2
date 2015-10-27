@@ -1,0 +1,1 @@
+sap.ui.core.mvc.Controller.extend("de.itaricon.test.MasterMasterDetailApplication.view.NotFound", {});
